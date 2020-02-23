@@ -4,7 +4,7 @@ export default function signup() {
     return (
         <div>
             <main className="registerScreen">
-                <h1>Register</h1>
+                <h1>Signup</h1>
                 <div className="dataInput">
                     <div className="form-group">
                         <label htmlFor="user-email">email address</label>

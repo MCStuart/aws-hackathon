@@ -28,7 +28,7 @@
 
 }
 
-.hero h1 {
+.fuzz h1 {
   /* text styles */
   font-size: 5em;
   /* margins */
@@ -57,7 +57,7 @@
   background-color: black;
 }
 
-.hero .btn {
+.fuzz .btn {
   /* position and sizing */
   display: block;
   width: 150px;
